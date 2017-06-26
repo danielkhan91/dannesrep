@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-Hej Niklas! varför!?
-=======
-Niklas vad händer??!?! kjBFHSJKDF
->>>>>>> newbranch
+
+Hej Niklas! varför!? Niklas vad händer??!?! kjBFHSJKDF
+
